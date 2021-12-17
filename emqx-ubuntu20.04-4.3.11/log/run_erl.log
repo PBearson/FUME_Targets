@@ -1,0 +1,8 @@
+run_erl [71237] Fri Dec 17 10:53:38 2021
+Args before exec of shell:
+run_erl [71237] Fri Dec 17 10:53:38 2021
+argv[0] = sh
+run_erl [71237] Fri Dec 17 10:53:38 2021
+argv[1] = -c
+run_erl [71237] Fri Dec 17 10:53:38 2021
+argv[2] = exec "/home/ubuntu/Documents/FUME_Targets/emqx-ubuntu20.04-4.3.11/bin/emqx" "console"
